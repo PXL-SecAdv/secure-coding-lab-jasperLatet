@@ -1,0 +1,8 @@
+# Negeer de configuratie variabelen
+db.env
+
+# Negeer de backend env
+.env
+
+# Negeer alle .sql bestanden voor de veiligheid
+*.sql
